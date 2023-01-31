@@ -1,5 +1,6 @@
 ### Hi there 👋
-I am Nicholas Rooks, currently a amateur full-stack and software developer. If you would like to learn more about me, feel free to check out my LinkedIn.
+I am Nicholas Rooks, currently a amateur full-stack and software developer.
+If you would like to learn more about me, feel free to check out my LinkedIn.
 www.linkedin.com/in/nicholas-rooks
 
 
@@ -22,7 +23,8 @@ Here are some ideas to get you started:
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![react](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
@@ -30,3 +32,9 @@ Here are some ideas to get you started:
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
+##Stats
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=rooksn727&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooksn727&hide=TeX&layout=compact&theme=prussian)
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=rooksn727.rooksn727)
