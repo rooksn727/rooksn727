@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Nicholas Rooks, currently a amateur full-stack and software developer.
+I am Nicholas Rooks, a currently amateur full-stack and software developer who likes to delve in new technologies in my free time.
 If you would like to learn more about me, feel free to check out my LinkedIn.
 www.linkedin.com/in/nicholas-rooks
 
