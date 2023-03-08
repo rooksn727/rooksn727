@@ -1,6 +1,6 @@
 ### Hi there 👋
 I am Nicholas Rooks, a currently amateur full-stack and software developer who likes to delve in new technologies in my free time.
-If you would like to learn more about me, feel free to check out my LinkedIn.
+If you would like to know more about me, feel free to check out my LinkedIn.
 www.linkedin.com/in/nicholas-rooks
 
 
@@ -30,7 +30,6 @@ Here are some ideas to get you started:
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
-![GitLab](https://img.shields.io/badge/-GitLab-FCA121?style=flat-square&logo=gitlab)
 
 ## Stats
 
