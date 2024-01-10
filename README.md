@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am Nicholas Rooks, a currently amateur full-stack and software developer who likes to delve in new technologies in my free time.
+I am Nicholas Rooks, my interests include full-stack and software development as well as Cybersecurity and I like to delve in new technologies in my free time.
 If you would like to know more about me, feel free to check out my LinkedIn.
 www.linkedin.com/in/nicholas-rooks
 
@@ -32,7 +32,10 @@ Here are some ideas to get you started:
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
 
-## Stats
 
+## Stats
+<!--
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=rooksn727&count_private=true&show_icons=true&include_all_commits=true&theme=prussian&layout=compact)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rooksn727&hide=TeX&layout=compact&theme=prussian)
+-->
+
