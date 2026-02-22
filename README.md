@@ -1,7 +1,6 @@
 ### Hi there 👋
-I am Nicholas Rooks, my interests include full-stack and software development as well as Cybersecurity and I like to delve in new technologies in my free time.
-If you would like to know more about me, feel free to check out my LinkedIn.
-www.linkedin.com/in/nicholas-rooks
+I am Nicholas, my interests include full-stack and software development as well as Cybersecurity and I like to delve in new technologies in my free time.
+
 
 
 <!--
